@@ -1,0 +1,20 @@
+body{background-color: rgb(223, 232, 236);}
+.AnchorButtons{text-decoration: none; color: rgb(0, 0, 133); border: solid grey 0.5px; border-radius: 5%; padding: 8px; background-color: rgb(216, 211, 211);}
+.SectionHeadings{text-align: center; line-height: 10px; color: rgb(44, 36, 100);}
+.ul {line-height: 25px; font-size: medium;}
+.Education{margin-left: auto; margin-right: auto; border-collapse: collapse;}
+.Education td
+    {  
+        font-size: medium; vertical-align: top; padding-left: 1em; 
+        padding-bottom: 0.1em; padding-top: 1em; padding-right: 1em; border-top: solid black 1px;
+    }
+.WorkEx{margin-left: auto;margin-right: auto; border-collapse: collapse;}
+.WorkEx td
+    {
+        vertical-align: top; padding-left: 1em; padding-right: 2em; padding-bottom: 1em; padding-top: 1em; 
+        line-height: 22px; border-top: solid black 1px;
+    }
+.Skills{margin-left: auto; margin-right: auto; font-size: large; border-collapse: collapse;}
+.Skills td{padding-left: 1em; padding-top: 0.8em; padding-right: 1em;}
+.Skills th{border-bottom: solid black 1px; padding-bottom: 10px; color: rgb(30, 30, 109);}
+ 
